@@ -17,7 +17,7 @@
 - Excel Data Manipulation
 
 **Files:**
-- Cleaned_dataset_Fatima_Project_01.xlsx
+- Cleaned_dataset_FatimaHamid.xlsx
 
 ---
 ## Project 2: Exploratory Data Analysis (EDA)
