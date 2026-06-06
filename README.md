@@ -35,5 +35,5 @@
 - 5 high-value outlier orders detected via IQR method
 
 **Files:**
-- Dataset_FatimaHamid.xlsx
-- EDA_Report_FatimaHamid.docx
+- EDA_Data_Anaytics_project_02.xlsx
+- EDA_Report_FatimaHamid_project_02.docx
