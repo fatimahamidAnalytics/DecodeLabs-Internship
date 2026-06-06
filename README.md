@@ -1,5 +1,25 @@
 # DecodeLabs-Internship
-Data Analytics Internship Project 01
+## Project 1: Data Cleaning & Documentation
+
+**Dataset:** E-Commerce Sales Dataset (Excel)
+
+**Tools Used:** Microsoft Excel
+
+**Tasks Completed:**
+- Filled 309 missing CouponCode values with "NO_COUPON"
+- Standardized date format to YYYY-MM-DD (1200+ records)
+- Rounded TotalPrice column to 2 decimal places
+- Maintained a detailed Change Log for documentation
+
+**Key Skills Gained:**
+- Data Cleaning
+- Data Documentation
+- Excel Data Manipulation
+
+**Files:**
+- Cleaned_dataset_FatimaHamid.xlsx
+
+---
 ## Project 2: Exploratory Data Analysis (EDA)
 
 **Dataset:** E-Commerce Orders (1000 rows, 14 columns)
